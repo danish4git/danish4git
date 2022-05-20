@@ -38,6 +38,6 @@
 
 <p><img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=danish4git&show_icons=true&locale=en&layout=compact" alt="danish4git" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danish4git&show_icons=true&locale=en" alt="danish4git" /></p>
+<p>&nbsp;<img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=danish4git&show_icons=true&locale=en" alt="danish4git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danish4git&" alt="danish4git" /></p>
+<p><img align="center" margin="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=danish4git&" alt="danish4git" /></p>
