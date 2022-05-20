@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **danish4eng@gmail.com**
 
-- ⚡ Fun fact **I watch the funny videos often.**
+
 
 </br>
 <h3 align="left">Connect with me:</h3>
