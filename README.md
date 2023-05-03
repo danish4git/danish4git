@@ -1,16 +1,13 @@
 ![MasterHead](https://cdn.computercareers.org/wp-content/uploads/Become-a-Web-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Danish Ahmed</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from India</h3>
+<h3 align="center">A Passionate Frontend Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish4git&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
 
 <p align="left"> <a href="https://twitter.com/danish4eng" target="blank"><img src="https://img.shields.io/twitter/follow/danish4eng?logo=twitter&style=for-the-badge" alt="danish4eng" /></a> </p>
 
-- 🔭 I’m currently student at Masai School
-
-
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🔭 I’m currently working at Apnacomplex
 
 - 👨‍💻 All of my projects are available at [https://github.com/danish4git?tab=repositories](https://github.com/danish4git?tab=repositories)
 
