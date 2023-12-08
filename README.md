@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/danish4eng" target="blank"><img src="https://img.shields.io/twitter/follow/danish4eng?logo=twitter&style=for-the-badge" alt="danish4eng" /></a> </p>
 
-- 🔭 I’m currently working at Apnacomplex
+- 🔭 I’m currently working at Anarock
 
 - 👨‍💻 All of my projects are available at [https://github.com/danish4git?tab=repositories](https://github.com/danish4git?tab=repositories)
 
